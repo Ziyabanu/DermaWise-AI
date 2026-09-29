@@ -9,7 +9,27 @@ The project combines skin-lesion classification, common skin-condition analysis,
 > **Important:** DermaWise is an academic research prototype. It is not a medical device and must not be used as a substitute for professional diagnosis or treatment.
 
 ---
+---
 
+## Application Preview
+
+### DermaWise Interface
+
+![DermaWise Home Interface](screenshots/dermawise-home.jpg)
+
+### AI-Assisted Skin Analysis
+
+![DermaWise Analysis Result](screenshots/dermawise-analysis.jpg)
+
+### Grad-CAM Explainability
+
+![DermaWise Grad-CAM Visualization](screenshots/dermawise-gradcam.jpg)
+
+### Experimental 114-Condition Analysis
+
+![DermaWise 114 Condition Top-5 Predictions](screenshots/dermawise-broad114.jpg)
+
+---
 ## Project Objectives
 
 DermaWise was developed to explore how AI can support dermatologic image analysis while explicitly accounting for uncertainty, interpretability, model efficiency, and generalization limitations.
